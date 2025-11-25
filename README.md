@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rholibobo&label=Profile%20views&color=0e75b6&style=flat" alt="rholibobo" /> </p>
 
-- 🌱 Highly proficient in **React,React Native, TailwindCSS, Javascript, Typescript**
+- 🌱 Highly proficient in **NextJS, React, React Native, TailwindCSS, Javascript, Typescript**
 
 - 👨‍💻 All of my projects are available at [rolandumoh.vercel.app](rolandumoh.vercel.app)
 
