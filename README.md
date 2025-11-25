@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rholibobo&label=Profile%20views&color=0e75b6&style=flat" alt="rholibobo" /> </p>
 
-- 🌱 I’m currently learning and improving my skills on **React, TailwindCSS, Typescript**
+- 🌱 Highly proficient in **React,React Native, TailwindCSS, Javascript, Typescript**
 
 - 👨‍💻 All of my projects are available at [rolandumoh.vercel.app](rolandumoh.vercel.app)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, React, MongoDB, Git**
 
-- 📫 How to reach me **rholipop@gmail.com**
+- 📫 How to reach me **engumoh1@gmail.com**
 
 - ⚡ Fun fact **I love to code and learn about new technologies**
 
